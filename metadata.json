@@ -1,0 +1,5 @@
+{
+  "name": "SmartSizer",
+  "description": "An entirely client-side application to resize and compress images (JPG/PNG/WebP) and PDFs to a target resolution or file size. Upload a file, set your target, and download the optimized result.",
+  "requestFramePermissions": []
+}
